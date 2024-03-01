@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: sans-serif; */
+}
+.shadow {
+    box-shadow: rgba(0, 12, 32, 0.04) 0px 0px 1px 0px, rgba(10, 31, 68, 0.06) 0px 10px 16px 0px;
+}
+.shadow2 {
+    box-shadow: rgba(0, 12, 32, 0.04) 0px 0px 1px 0px, rgba(10, 31, 68, 0.06) 0px 10px 16px 0px;
+}
+.back-img {
+    background-image: url("./assets/footer-img.png");
+    min-height: 60dvh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 40px 0;
+}
